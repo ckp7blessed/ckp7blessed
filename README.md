@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckp7blessed&layout=compact&hide=procfile)](https://github.com/ckp7blessed/github-readme-stats)
 
-![alt text](https://github.com/ckp7blessed/portfolio/blob/master/src/assets/ajax.png?raw=true)
+<code><img height="20" ![alt text](https://github.com/ckp7blessed/portfolio/blob/master/src/assets/ajax.png?raw=true)></code>
