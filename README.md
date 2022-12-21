@@ -1,6 +1,11 @@
-### Hi there 👋 my name is Chris
+### Thanks for visiting my Github 👋 
 
----  My Skills  --- <br /><br />
+Hi, I'm Chris, a passionate full stack web developer and a freelance software engineer from Los Angeles/Orange County, CA. My passion for software lies with dreaming up ideas and making them come true. I take pride in the experience, architecture, and code quality of the things I build.
+
+- 💼 Freelance or hire - please contact me via, [LinkedIn](https://www.linkedin.com/in/chrispkdev/) or [contact page](https://www.chrispkdev.com/) on my personal site.
+- 💬 Ask me about anything, I am happy to help
+
+---  Languages & Tools  --- <br /><br />
 <img height="50" src="https://github.com/ckp7blessed/portfolio/blob/master/src/assets/ajax.png">
 <img height="50" src="https://github.com/ckp7blessed/portfolio/blob/master/src/assets/aws.png">
 <img height="50" src="https://github.com/ckp7blessed/portfolio/blob/master/src/assets/bootstrap.jpg">
