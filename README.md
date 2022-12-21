@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 my name is Chris
+
+// Skills
+<code><img height="40" src="https://github.com/ckp7blessed/portfolio/blob/master/src/assets/ajax.png">AJAX</code>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckp7blessed&layout=compact&hide=procfile)](https://github.com/ckp7blessed/github-readme-stats)
+
 
 <!--
 **ckp7blessed/ckp7blessed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckp7blessed&layout=compact&hide=procfile)](https://github.com/ckp7blessed/github-readme-stats)
-
-<code><img height="40" src="https://github.com/ckp7blessed/portfolio/blob/master/src/assets/ajax.png"></code>
