@@ -8,7 +8,7 @@
 
 
 
-<code><img height="50" src="https://github.com/ckp7blessed/portfolio/blob/master/src/assets/bluesphere.gif"></code>
+<img height="50" src="https://github.com/ckp7blessed/portfolio/blob/master/src/assets/bluesphere.gif">
 
 <!--
 **ckp7blessed/ckp7blessed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
