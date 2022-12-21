@@ -5,6 +5,9 @@ Hi, I'm Chris, a passionate full stack web developer and a freelance software en
 - 💼 Freelance or hire - please contact me via, [LinkedIn](https://www.linkedin.com/in/chrispkdev/) or [contact form](https://www.chrispkdev.com/) on my personal site.
 - 💬 Ask me about anything, I am happy to help
 
+Creator of [Bytetheapples.com](https://www.bytetheapples.com/) A fully functional, full stack social media network for coders and engineers.
+Currently working on a Django Rest Framework x React E-commerce platform
+
 ---  Languages & Tools  --- <br /><br />
 <img height="50" src="https://github.com/ckp7blessed/portfolio/blob/master/src/assets/ajax.png">
 <img height="50" src="https://github.com/ckp7blessed/portfolio/blob/master/src/assets/aws.png">
