@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Chris
 
-// Skills <br /><br />
+---  My Skills  --- <br /><br />
 <img height="50" src="https://github.com/ckp7blessed/portfolio/blob/master/src/assets/ajax.png">
 <img height="50" src="https://github.com/ckp7blessed/portfolio/blob/master/src/assets/aws.png">
 <img height="50" src="https://github.com/ckp7blessed/portfolio/blob/master/src/assets/bootstrap.jpg">
@@ -19,7 +19,7 @@
 <img height="50" src="https://github.com/ckp7blessed/portfolio/blob/master/src/assets/react.png">
 <br />
 <img height="50" src="https://github.com/ckp7blessed/portfolio/blob/master/src/assets/selenium.png">
-<img height="50" src="https://github.com/ckp7blessed/portfolio/blob/master/src/assets/tailwind.png">
+<img height="50" src="https://github.com/ckp7blessed/portfolio/blob/master/src/assets/tailwindcss.png">
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckp7blessed&layout=compact&hide=procfile)](https://github.com/ckp7blessed/github-readme-stats)
