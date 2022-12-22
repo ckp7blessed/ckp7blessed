@@ -1,6 +1,6 @@
 ### Thanks for visiting my Github 👋 
 
-Hi, I'm Chris, a passionate full stack web developer and a freelance software engineer from Los Angeles/Orange County, CA. My passion for software lies with dreaming up ideas and making them come true. I take pride in the experience, architecture, and code quality of the things I build.
+Hi, I'm Chris, a passionate full stack web developer from Los Angeles/Orange County, CA. My passion for software lies with dreaming up ideas and making them come true. I take pride in the experience, architecture, and code quality of the things I build.
 
 - 💼 Freelance or hire - please contact me via, [LinkedIn](https://www.linkedin.com/in/chrispkdev/) or [contact form](https://www.chrispkdev.com/) on my personal site.
 - 💬 Ask me about anything, I am happy to help
